@@ -1,0 +1,10 @@
+opencv-python
+imutils
+scikit-learn
+matplotlib
+tqdm
+scikit-image
+termcolor
+jupyter
+notebook
+pandas

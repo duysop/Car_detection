@@ -1,0 +1,8 @@
+raw
+data
+raw.*
+cars
+non_cars
+*.py[cod]
+__pycache__
+hard_examples
